@@ -7,3 +7,5 @@ The classification is done by using a TF-IDF (Term Freuqency - Inversed document
 An example subset of data of dutch citizen reports is added for demonstration purposes. The original data used is not publicly available due to privacy concerns.
 
 A live demo of a textual classification of Dutch service requets can be seen at http://ec2-54-171-141-211.eu-west-1.compute.amazonaws.com/
+
+A medium story describing the creation of the classifier can be seen at https://medium.com/maarten-sukel/how-to-use-machine-learning-for-the-classification-of-citizen-service-requests-b71159a85f36
